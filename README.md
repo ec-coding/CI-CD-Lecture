@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/1lxQYCC.png" width="50%">
 </p>
 <p align="center">
-<img src="https://github.com/ec-coding/CI-CD-Lecture/blob/main/CI-CD%20Banner.png" width="85%">
+<img src="https://github.com/ec-coding/CI-CD-Lecture/blob/main/CI-CD%20Chart.png" width="85%">
 </p>
 <h2 align="center">A Presentation on the basics of CI/CD Pipelines</h2>
 <p align="center">
