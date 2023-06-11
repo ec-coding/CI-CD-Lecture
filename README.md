@@ -1,6 +1,8 @@
+<br/>
 <p align="center">
 <img src="https://i.imgur.com/1lxQYCC.png" width="50%">
 </p>
+<br/>
 <p align="center">
 <img src="https://github.com/ec-coding/CI-CD-Lecture/blob/main/CI-CD%20Chart.png" width="">
 </p>
