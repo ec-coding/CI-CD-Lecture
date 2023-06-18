@@ -14,5 +14,6 @@
 ## Lessons Learned:
 - DevSecOps
     - CI/CD pipelines are commonly used in larger companies where the scale and complexity of projects are higher. These pipelines help streamline the software development process, improve efficiency, and ensure consistent delivery of high-quality applications. 
-    - The CI/CD process ensures that code changes go through rigorous testing, security checks, and a controlled deployment process before reaching production. 
+    - The CI/CD process ensures that code changes go through rigorous testing, security checks, and a controlled deployment process before reaching production.
+    - How code changes/pushes are filtered through an automation server before they are validated for container placement. 
 
